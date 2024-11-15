@@ -1,0 +1,9 @@
+[submodule "virtualization-migration-factory-reference-implementation"]
+	path = virtualization-migration-factory-reference-implementation
+	url = https://github.com/raffaelespazzoli/virtualization-migration-factory-reference-implementation.git
+[submodule "e2e-baremetal-provisioning"]
+	path = e2e-baremetal-provisioning
+	url = https://github.com/raffaelespazzoli/e2e-baremetal-provisioning.git
+[submodule "gitops-standards-repo-template"]
+	path = gitops-standards-repo-template
+	url = https://github.com/raffaelespazzoli/gitops-standards-repo-template.git
